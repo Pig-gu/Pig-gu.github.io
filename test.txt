@@ -1,0 +1,8 @@
+- branches
+- commits
+- remote
+
+- git status
+- git commit
+- git push
+- git pull
